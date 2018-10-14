@@ -11,6 +11,7 @@
    ">
 
 	<context:component-scan base-package="com.springtest.onlinebook.controller"></context:component-scan>
+	<context:component-scan base-package="com.springtest.bookingbackend.daoImpl"></context:component-scan>
 
 	<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 	

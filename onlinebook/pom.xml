@@ -29,6 +29,13 @@
 			<version>5.0.9.RELEASE</version>
 		</dependency>
 
+		<!-- Linking backend -->
+		<dependency>
+			<groupId>com.springtest</groupId>
+			<artifactId>bookingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
 
 		<dependency>
 			<groupId>junit</groupId>
